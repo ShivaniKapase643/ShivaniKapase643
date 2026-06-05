@@ -12,9 +12,7 @@ l
 
 <div align="center">
   
-<a href="https://github.com/ShivaniKapase643">
-  <img src="https://github.com/ShivaniKapase643.png" alt="Shivani Kapase" width="200" height="200" style="border-radius: 50%; border: 5px solid #FF6EC7;"/>
-</a>
+
   
   ### 💫 Shivani Kapase
   
