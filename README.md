@@ -21,7 +21,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=B.E.+Computer+Engineering+%7C+SGPA+9.6%2F10;Research+Science+Intern+%7C+MES+Wadia+College;MERN+Stack+Developer+%7C+Android+Developer;Building+Intelligent+%26+Scalable+Solutions" alt="Typing SVG" />
   
   [![GitHub Badge](https://img.shields.io/badge/GitHub-ShivaniKapase643-181717?style=flat&logo=github)](https://github.com/ShivaniKapase643)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivani-kapase)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivani-kapse-54b513309)
   
 </div>
 
@@ -173,7 +173,7 @@ const shivani = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kapase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kapse-54b513309)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanikapase755@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shivani-dev-1.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivaniKapase643)
